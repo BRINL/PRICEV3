@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\PayOff.o
+./debug\Genealeatoire.o
+./debug\Mainwindow.o
+./debug\MC.o
+./debug\Option.o
+./debug\StatGatherer.o
+./debug\Greeks.o
+./debug\qcustomplot.o
+./debug\qrc_RESSOURCE.o
+./debug\moc_Mainwindow.o
+./debug\moc_qcustomplot.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\PayOff.o
+./release\Genealeatoire.o
+./release\Mainwindow.o
+./release\MC.o
+./release\Option.o
+./release\StatGatherer.o
+./release\Greeks.o
+./release\qcustomplot.o
+./release\qrc_RESSOURCE.o
+./release\moc_Mainwindow.o
+./release\moc_qcustomplot.o
+);
